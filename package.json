@@ -1,0 +1,9 @@
+{
+    "name": "com.rbk_avollet.mobile-ui-toolkit",
+    "displayName": "Mobile UI Toolkit",
+    "version": "1.0.0",
+    "description": "Comes with a FPS displayer and Console UI anchored on the top left of the screen.",
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+    }
+}
